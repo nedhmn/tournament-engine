@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.2.1](https://github.com/nedhmn/tournament-engine/compare/v0.2.0...v0.2.1) (2026-11-23)
+
+
+### Dependencies
+
+* **deps:** update dependency @vitejs/plugin-react to v6.3.0 ([#67](https://github.com/nedhmn/tournament-engine/issues/67)) ([27f1cc1](https://github.com/nedhmn/tournament-engine/commit/27f1cc1d93f38443296bd34d4a72851a55473b82))
+* **deps:** update dependency turbo to v2.11.11 ([#66](https://github.com/nedhmn/tournament-engine/issues/66)) ([46ce96e](https://github.com/nedhmn/tournament-engine/commit/46ce96e56c0c251de807ff7f543fe8b413b8f5bf))
+* **deps:** update dependency turbo to v2.11.13 ([#69](https://github.com/nedhmn/tournament-engine/issues/69)) ([9774f06](https://github.com/nedhmn/tournament-engine/commit/9774f06566769adb33e9535bfb2e8b993f5511ed))
+* **deps:** update pnpm/action-setup action to v6.1.1 ([#64](https://github.com/nedhmn/tournament-engine/issues/64)) ([0d3e678](https://github.com/nedhmn/tournament-engine/commit/0d3e6789f2a2b446f34834dc7ebad656c5e8bbb8))
+
 ## [0.2.0](https://github.com/nedhmn/tournament-engine/compare/v0.1.1...v0.2.0) (2026-11-08)
 
 
